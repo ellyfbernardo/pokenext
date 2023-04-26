@@ -1,0 +1,1 @@
+Pokedex feito com next
